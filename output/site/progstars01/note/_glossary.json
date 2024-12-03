@@ -1,0 +1,19 @@
+{
+  "title": "用語集",
+  "tabs": [
+    {
+      "id": "sekai",
+      "title": "世界関連",
+      "notes": [
+        {
+          "id": "world1",
+          "title": "ラートゥム界"
+        },
+        {
+          "id": "world2",
+          "title": "アルカーナ界"
+        }
+      ]
+    }
+  ]
+}
