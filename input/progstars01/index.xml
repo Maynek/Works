@@ -4,16 +4,13 @@
     <MainTitle>プログラマブル・スターズ １</MainTitle>
     <SubTitle>俺のプログラムが黒髪の少女を救うまでの物語</SubTitle>
     <Chapters>
-        <Chapter Id="c0000">
-            <Title>序章　『星々の輝きの中で』</Title>
-            <Episode Id="c0000e01">
-                <Title>序章（１）　魔王</Title>
-            </Episode>
-        </Chapter>
         <Chapter Id="c0001">
-            <Title>第１章　『星に願いを』</Title>
-            <Episode Id="c0001e01">
-                <Title>第１章　（１）修学旅行の思い出</Title>
+            <Title>序章　『星に願いを』</Title>
+            <Episode Id="c0000e01">
+                <Title>序章　（１）魔王</Title>
+            </Episode>
+            <Episode Id="c0000e02">
+                <Title>序章　（２）修学旅行の日</Title>
             </Episode>
         </Chapter>
     </Chapters>
@@ -26,6 +23,12 @@
             </Note>
 			<Note Id="world2">
                 <Title>アルカーナ界</Title>
+            </Note>
+        </Tab>
+        <Tab Id="others">
+			<Title>その他</Title>
+			<Note Id="promon">
+                <Title>プログラマブル・モンスターズ</Title>
             </Note>
         </Tab>
     </Glossary>
