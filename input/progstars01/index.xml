@@ -6,11 +6,13 @@
     <Chapters>
         <Chapter Id="c0001">
             <Title>序章　『星に願いを』</Title>
-            <Episode Id="c0000e01" Image="c0000e01.jpg">
+            <Episode Id="c0000e01">
                 <Title>序章　（１）魔王</Title>
+                <NextImage File="c0000e01.jpg" Width="360" Height="360" />
             </Episode>
-            <Episode Id="c0000e02" Image="c0000e02.jpg">
+            <Episode Id="c0000e02">
                 <Title>序章　（２）修学旅行の日</Title>
+                <NextImage File="c0000e02.jpg" Width="360" Height="360" />
             </Episode>
         </Chapter>
     </Chapters>
