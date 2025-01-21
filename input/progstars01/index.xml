@@ -14,6 +14,10 @@
                 <Title>序章　（２）修学旅行の日</Title>
                 <NextImage File="c0000e02.jpg" Width="360" Height="360" />
             </Episode>
+            <Episode Id="c0000e03">
+                <Title>序章　（３）ニルビス起動</Title>
+                <NextImage File="c0000e03.jpg" Width="360" Height="360" />
+            </Episode>
         </Chapter>
     </Chapters>
     <Glossary Enabled="true" Visible="true">
