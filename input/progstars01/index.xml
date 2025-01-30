@@ -26,6 +26,10 @@
                 <Title>序章（５） 地球防衛共同体</Title>
                 <NextImage File="c0000e05.jpg" Width="360" Height="360" />
             </Episode>
+            <Episode Id="c0000e06">
+                <Title>序章（６） 星に願いを</Title>
+                <NextImage File="c0000e06.jpg" Width="360" Height="360" />
+            </Episode>
         </Chapter>
     </Chapters>
     <Glossary Enabled="true" Visible="true">
