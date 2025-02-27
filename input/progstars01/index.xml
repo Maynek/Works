@@ -7,27 +7,27 @@
         <Chapter Id="c0000">
             <Title>序章　『星に願いを』</Title>
             <Episode Id="c0000e01">
-                <Title>序章（１） 魔王</Title>
+                <Title>序章［１］ 魔王</Title>
                 <NextImage File="c0000e01.jpg" Width="360" Height="360" />
             </Episode>
             <Episode Id="c0000e02">
-                <Title>序章（２） 修学旅行</Title>
+                <Title>序章［２］ 修学旅行</Title>
                 <NextImage File="c0000e02.jpg" Width="360" Height="360" />
             </Episode>
             <Episode Id="c0000e03">
-                <Title>序章（３） 勇者と盟友</Title>
+                <Title>序章［３］ 勇者と盟友</Title>
                 <NextImage File="c0000e03.jpg" Width="360" Height="360" />
             </Episode>
             <Episode Id="c0000e04">
-                <Title>序章（４） 東京湾上の死闘</Title>
+                <Title>序章［４］ 東京湾上の死闘</Title>
                 <NextImage File="c0000e04.jpg" Width="360" Height="360" />
             </Episode>
             <Episode Id="c0000e05">
-                <Title>序章（５） 地球防衛共同体</Title>
+                <Title>序章［５］ 地球防衛共同体</Title>
                 <NextImage File="c0000e05.jpg" Width="360" Height="360" />
             </Episode>
             <Episode Id="c0000e06">
-                <Title>序章（６） 星に願いを</Title>
+                <Title>序章［６］ 星に願いを</Title>
                 <NextImage File="c0000e06.jpg" Width="360" Height="360" />
             </Episode>
         </Chapter>
