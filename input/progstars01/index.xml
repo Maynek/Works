@@ -12,6 +12,9 @@
             <Episode Id="c0000e01">
                 <Title>序章［１］ 修学旅行の日</Title>
             </Episode>
+            <Episode Id="c0000e02">
+                <Title>序章［２］ ハナコ</Title>
+            </Episode>
         </Chapter>
     </Chapters>
     <Glossary Enabled="true" Visible="true">
