@@ -37,6 +37,12 @@
                 <Title>序章［９］ 星に願いを</Title>
             </Episode>
         </Chapter>
+        <Chapter Id="c0001">
+            <Title>第１章『未来の姿』</Title>
+            <Episode Id="c0001e00">
+                <Title>第１章［０］ 未来の姿</Title>
+            </Episode>
+        </Chapter>
     </Chapters>
     <Glossary Enabled="true" Visible="true">
         <Title>用語集</Title>
