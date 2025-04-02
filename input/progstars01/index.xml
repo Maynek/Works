@@ -42,6 +42,9 @@
             <Episode Id="c0001e00">
                 <Title>第１章［０］ 未来の姿</Title>
             </Episode>
+            <Episode Id="c0001e01">
+                <Title>第１章［１］ 目覚め</Title>
+            </Episode>
         </Chapter>
     </Chapters>
     <Glossary Enabled="true" Visible="true">
