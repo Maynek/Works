@@ -45,6 +45,9 @@
             <Episode Id="c0001e01">
                 <Title>第１章［１］ 目覚め</Title>
             </Episode>
+            <Episode Id="c0001e02">
+                <Title>第１章［２］ セットアップ</Title>
+            </Episode>
         </Chapter>
     </Chapters>
     <Glossary Enabled="true" Visible="true">
