@@ -57,6 +57,9 @@
             <Episode Id="c0001e05">
                 <Title>第１章［５］ ブラック・ドラゴン</Title>
             </Episode>
+            <Episode Id="c0001e06">
+                <Title>第１章［６］ 初討伐</Title>
+            </Episode>
         </Chapter>
     </Chapters>
     <Glossary Enabled="true" Visible="true">
