@@ -60,6 +60,12 @@
             <Episode Id="c0001e06">
                 <Title>第１章［６］ 初討伐</Title>
             </Episode>
+            <Episode Id="c0001e07">
+                <Title>第１章［７］ 大災厄</Title>
+            </Episode>
+            <Episode Id="c0001e08">
+                <Title>第１章［８］ スプライト</Title>
+            </Episode>
         </Chapter>
     </Chapters>
     <Glossary Enabled="true" Visible="true">
