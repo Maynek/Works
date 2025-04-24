@@ -79,6 +79,12 @@
                 <Title>第１章［１２］ 乱入</Title>
             </Episode>
         </Chapter>
+        <Chapter Id="c0002">
+            <Title>第２章『黄金の悪魔』</Title>
+            <Episode Id="c0002e00">
+                <Title>第２章［０］ 緊急会議</Title>
+            </Episode>
+        </Chapter>
     </Chapters>
     <Glossary Enabled="true" Visible="true">
         <Title>用語集</Title>
